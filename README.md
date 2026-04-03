@@ -1,3 +1,36 @@
+📱 App Description – Location-Based Capture App
+
+This React Native CLI application, developed by Mahender Singh (LeetShield), is designed to intelligently capture and store real-time geolocation data whenever a user performs a capture action.
+
+🚀 Key Features:
+📸 Smart Capture Functionality
+Each time the user clicks the capture button, the app records the event instantly.
+📍 Real-Time Location Tracking
+The application automatically fetches the device’s current latitude and longitude at the exact moment of capture using device GPS services.
+🗂️ Location Data Storage
+Captured coordinates are securely stored along with the captured event, enabling future tracking, auditing, or analytics.
+⚡ Optimized Performance
+Built using React Native CLI for better performance and native-level control compared to Expo-based apps.
+🔐 Permission Handling
+Handles location permissions dynamically, ensuring a smooth user experience across Android devices.
+🌐 Scalable Architecture
+Easily integrable with backend services (e.g., Laravel APIs) for storing capture logs, user tracking, or attendance systems.
+💡 Use Cases:
+Employee attendance with geo-verification
+Field service tracking
+Delivery confirmation systems
+Location-based task logging
+Security and audit trails
+🛠️ Tech Stack:
+React Native CLI
+JavaScript / TypeScript
+Native Modules for GPS access
+REST API integration (Laravel backend supported)
+
+For More Details : https://leetshield.com/
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
